@@ -1,5 +1,5 @@
 # Brown & Anderson Special Touches
-- Responsive and interactive search. Just a search term and the search executes. Clear the search to return to full listings.
+- Responsive and interactive search. Just type a search term and the search executes. Clear the search to return to full listings.
 - Use of glyphicons to communicate actions. X for clear search and minus to delete a record.
 - Responsive detailed information display on mouse over as well as on click.
 - Use of UF orange and blue color scheme. Orange on hover.
