@@ -15,7 +15,7 @@ tr:hover {
   color: orange;
 }
 
-h2, h4 {
+h1,h2, h4 {
     color: #120A8F;
 }
 input[type=submit]{

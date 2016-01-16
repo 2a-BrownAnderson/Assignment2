@@ -1,4 +1,8 @@
-# Brown & Anderson Polish
+# Brown & Anderson Special Touches
+- Responsive and interactive search. Just a search term and the search executes. Clear the search to return to full listings.
+- Use of glyphicons to communicate actions. X for clear search and minus to delete a record.
+- Responsive detailed information display on mouse over as well as on click.
+- Use of UF orange and blue color scheme. Orange on hover.
 
 # Introduction to Front-end development with Angular.js
 We will continue to build upon our directory application by creating a front-end interface with Angular.js to display listings, as well as the ability to add new listings and delete old ones.
