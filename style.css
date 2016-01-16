@@ -1,0 +1,27 @@
+#searchBar {
+  margin: 15px 10px;
+}
+
+.tableWrapper {
+  max-height: 400px;
+  overflow: auto;
+}
+th {
+    background-color: #120A8F;
+    color: white;
+}
+
+tr:hover {
+  color: orange;
+}
+
+h2, h4 {
+    color: #120A8F;
+}
+input[type=submit]{
+    background-color: #120A8F;
+    border: none;
+    color: white;
+    cursor: pointer;
+    width: 100%;
+}
